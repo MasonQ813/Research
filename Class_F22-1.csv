@@ -1,0 +1,682 @@
+dist,bones,hr_wage,hr_sleep,salary,bpm,travel,class,car,coffee,academ_level,academ_year,residence,grad_plans,musician
+140,0,10,8,76000,59,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,Graduate School,J.S. Bach
+6690,0,10,6,300000,98,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,Graduate School,Green day
+10000,0,10,8,200000,56,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,A Job,kep1er.
+14000,0,10,5,10000,98,Yes,STAT 200 Online,No,Yes,Freshman,1,Dorm Room,Graduate School,aespa
+0,0,12,6,100000,79,Yes,STAT 200 Online,No,No,Freshman,1,Some other residence,A Job,Elko
+0,0,12,7.5,200000,72,Yes,STAT 200 Online,Yes,No,Freshman,1,Dorm Room,Graduate School,Taylor Swift
+6835.0831,3,12,8,250000,81,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,Graduate School,Imagine Dragons
+7162,0,12,9,43811,82,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,Graduate School,The Chainsmokers
+11000,3,12,7.6,200000,89,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,Graduate School,Avicii
+7720,0,12.5,4.2,10000000,51,Yes,STAT 200 Online,No,Yes,Freshman,1,Dorm Room,Graduate School,Chopin
+4.3,2,13,6.5,120000,66,Yes,STAT 200 Online,No,No,Freshman,1,Some other residence,Graduate School,BLACKPINK
+158.7,1,13,8.5,"600,000",52,Yes,STAT 200 Online,No,Yes,Freshman,1,Dorm Room,Graduate School,Nirvana
+160,0,13,8,170000,83,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,A Job,Kanye West
+200,0,13,7.5,100000,82,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,Graduate School,Eason Chan
+332,0,13,8.3,100000,83,Yes,STAT 200 Online,No,Yes,Freshman,1,Dorm Room,Graduate School,Eason Chan
+139,0,13.67,8.5,100000,77,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,Graduate School,Supertramp
+110,1,14,7,100000,75,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,A Job,Reesh
+120,0,14,5,"175,000",70,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,Graduate School,Drake
+120,0,14,8,500000,59,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,Graduate School,Joji
+159,0,14,6.5,80000,61,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,A Job,Chase Atlantic
+163,0,14,5.5,200000,68,Yes,STAT 200 Online,No,No,Freshman,1,Some other residence,A Job,Denzel Curry
+183,0,14,6.5,200000,82,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,A Job,Baby Keem
+800,2,14,8.5,"400,000",65,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,Graduate School,Coldplay
+2000,0,14,6.5,100000,78,Yes,STAT 200 Online,No,Yes,Freshman,1,Dorm Room,Graduate School,Lana Del Rey
+7075,0,14,7,"100,000",85,Yes,STAT 200 Online,No,Yes,Freshman,1,Dorm Room,Graduate School,Taylor
+49,0,15,7,400000,92,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,A Job,Bruno Major
+117,0,15,7.7,"5,000,000",69,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,A Job,KanYe West
+121,1,15,6,"80,000",80,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,A Job,taylor swift
+125,0,15,8,"200,000",52,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,Graduate School,ONE OK ROCK
+136,0,15,7,200000,64,Yes,STAT 200 Online,Yes,No,Freshman,1,Dorm Room,A Job,DEAN
+140,2,15,8.5,250000,72,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,A Job,Kanye West
+150,0,15,9,200000,56,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,A Job,
+150,1,15,7,200000,50,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,A Job,Outkast
+800,0,15,7.5,300000,68,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,A Job,Coldplay
+800,0,15,8,250000,61,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,A Job,Drake
+811,0,15,6,400000,80,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,Graduate School,J. Cole
+875,0,15,6.5,"90,000",66,Yes,STAT 200 Online,No,Yes,Freshman,1,Dorm Room,A Job,Taylor Swift
+6900,0,15,7,500000,87,Yes,STAT 200 Online,No,Yes,Freshman,1,Dorm Room,Graduate School,Bai Li
+7155,0,15,7,100000000,72,Yes,STAT 200 Online,Yes,Yes,Freshman,1,Dorm Room,A Job,ED Sheeran
+7155.0893,0,15,7,,72,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,Something else,ED Sheeran
+7200,0,15,7,1000000,86,Yes,STAT 200 Online,No,Yes,Freshman,1,Dorm Room,Graduate School,Taylor
+7243,0,15,8.5,1000000,80,Yes,STAT 200 Online,No,Yes,Freshman,1,Dorm Room,Graduate School,Jay Zhou
+126.1,0,16,7,350000,54,Yes,STAT 200 Online,No,Yes,Freshman,1,Dorm Room,Something else,Weston Estate
+160,1,18,7,200000,60,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,Graduate School,Mozart
+7861.4,1,20,7,"350,000",81,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,Graduate School,Buna Boy
+7800,2,,9,250000,72,Yes,STAT 200 Online,No,No,Freshman,1,Dorm Room,A Job,"Xu, Song"
+6691,0,3,8.5,130000,64,Yes,STAT 200 Online,No,No,Junior,3,Dorm Room,Graduate School,Enya Patricia Brennan
+7849,0,4,7,40000,62,Yes,STAT 200 Online,No,No,Junior,3,Dorm Room,A Job,Coldplay
+167,1,10,8,70000,58,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,A Job,taylor swift
+6680,0,10,7,55000,91,Yes,STAT 200 Online,No,Yes,Junior,3,Dorm Room,A Job,Paloalto
+2,0,12,6,20000,63,No,STAT 200 Online,No,No,Junior,3,Dorm Room,A Job,Mozart
+137,0,12,7,"5,000,000",63,Yes,STAT 200 Online,No,Yes,Junior,3,Some other residence,A Job,Drake
+6000,0,12,6,120000,70,Yes,STAT 200 Online,Yes,No,Junior,3,Some other residence,Graduate School,Jay
+"6,560",1,12,8,"50,000",75,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,A Job,Ennio Morricone
+6939,0,12,7,100000,70,Yes,STAT 200 Online,No,Yes,Junior,3,Dorm Room,A Job,BTS
+0.6,0,13,8,"5,000,000",63,Yes,STAT 200 Online,No,Yes,Junior,3,Some other residence,A Job,Drake
+8,1,14,5,20000000,70,Yes,STAT 200 Online,Yes,No,Junior,3,Dorm Room,A Job,Capper
+123,1,14,7.6,"110,000",66,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,Graduate School,Coldplay
+140,1,14,9,300000,90,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,Graduate School,MyReminiscence
+142,0,14,5.4,42750,76,No,STAT 200 Online,No,No,Junior,3,Some other residence,Graduate School,Myself
+145,0,14,7,"100,000",68,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,A Job,Steve lacy
+150,0,14,5.4,90000,65,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,Graduate School,Oasis
+155,0,14,6,"100,000",93,Yes,STAT 200 Online,Yes,Yes,Junior,3,Some other residence,Something else,morgan wallen
+158,0,14,7.3,150000,84,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,A Job,Bruno Mars
+677.865,0,14,8,90000,65,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,Graduate School,keshi
+815.3,0,14,5.5,"400,000",81,Yes,STAT 200 Online,No,Yes,Junior,3,Some other residence,Graduate School,Charlie Puth
+7123,0,14,10,200000,77,Yes,STAT 200 Online,Yes,No,Junior,3,Dorm Room,Graduate School,none
+7158.77,0,14,7,30000,84,Yes,STAT 200 Online,No,No,Junior,3,Dorm Room,Graduate School,(G)I-DLE
+100,1,14.5,9.5,"65,000",73,No,STAT 200 Online,Yes,Yes,Junior,3,Some other residence,A Job,Taylor Swift
+0.5,0,15,7.6,200000,94,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,Graduate School,Jielun Zhou
+45,0,15,7.2,130000,76,Yes,STAT 200 Online,Yes,Yes,Junior,3,Dorm Room,PA School,Rush
+110,0,15,7,100000,66,No,STAT 200 Online,Yes,No,Junior,3,Some other residence,A Job,Bad Bunny
+113,1,15,7,5000000,72,No,STAT 200 Online,No,No,Junior,3,Some other residence,Something else,H.E.R
+118,0,15,5,"200,000",76,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,Graduate School,j Cole
+125,0,15,6.8,145000,58,Yes,STAT 200 Online,Yes,No,Junior,3,Some other residence,A Job,Imagine Dragons
+125,0,15,8,"50,000",68,Yes,STAT 200 Online,Yes,No,Junior,3,Dorm Room,Something else,Lovejoy
+126,0,15,7.8,120000,120,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,A Job,The Voidz
+133,0,15,8,300000,60,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,A Job,Beyonce
+150,0,15,6,"200,000",72,Yes,STAT 200 Online,Yes,Yes,Junior,3,Some other residence,A Job,Taylor Swift
+153,0,15,7.1,120000,69,Yes,STAT 200 Online,Yes,No,Junior,3,Some other residence,A Job,Gucci Mane
+155,0,15,6.5,57000,84,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,A Job,The Wrecks
+165,0,15,8,80000,68,No,STAT 200 Online,Yes,Yes,Junior,3,Some other residence,A Job,Harry Styles
+826,0,15,7,1000000,53,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,Graduate School,lang lang
+1500,0,15,8,"500,000",70,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,A Job,the weeknd
+6690,0,15,6.5,10000000000,85,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,Graduate School,Jay Chou
+7236.93,0,15,10,100000,71,Yes,STAT 200 Online,No,No,Junior,3,Dorm Room,A Job,Jennie Kim
+9466,3,15,8,"700,000",73,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,A Job,Pluko
+10000000,0,15,9,500000,54,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,A Job,adele adkins
+204,0,15.95,8,"80,000",85,Yes,STAT 200 Online,Yes,No,Junior,3,Some other residence,A Job,Nicki Minaj
+147.1,1,17,7.5,90000,,Yes,STAT 200 Online,Yes,Yes,Junior,3,Some other residence,A Job,Mac Miller
+165,0,17,7,250000,102,Yes,STAT 200 Online,Yes,Yes,Junior,3,Some other residence,A Job,Taylor Swift
+180,1,17,7,120000,55,No,STAT 200 Online,Yes,No,Junior,3,Some other residence,A Job,Talking Heads
+7700,0,18,7,130000,70,Yes,STAT 200 Online,Yes,No,Junior,3,Some other residence,Graduate School,The Beatles
+"2,000",2,19,7,20,70,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,Graduate School,perturbator
+150,0,20,9,150000,85,Yes,STAT 200 Online,Yes,No,Junior,3,Some other residence,A Job,Hendrix
+1000,0,20,7,"2,000,000",60,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,A Job,Drake
+6783,0,20,6,10000,62,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,Graduate School,Charlie Puth
+6783,0,20,6,10000,62,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,Graduate School,Charlie Puth
+7058,1,20,8.5,"50,000",75,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,Graduate School,blackpink
+7866,0,20,8,80000,90,Yes,STAT 200 Online,No,No,Junior,3,Dorm Room,Graduate School,ZAYN
+8000,0,20,7.5,"250,000",75,Yes,STAT 200 Online,No,Yes,Junior,3,Some other residence,A Job,Doja Cat
+8652.594,1,30,10,1500000,80,Yes,STAT 200 Online,No,No,Junior,3,Some other residence,Graduate School,Imagine Dragon
+150,0,15,10,"130,000",79,No,STAT 200 Online,No,Yes,Senior or grad student,4,Some other residence,Something else,Spoon
+180,0,10,6.5,300000,86,No,STAT 200 Online,Yes,No,Senior or grad student,4,,A Job,Adele
+150,0,11,9,100000,80,Yes,STAT 200 Online,No,No,Senior or grad student,4,Some other residence,A Job,frenchcore
+151,0,12,8,"70,000.00",60,Yes,STAT 200 Online,Yes,Yes,Senior or grad student,4,Some other residence,Graduate School,Muse
+"2,136",0,12,8,300000,80,Yes,STAT 200 Online,Yes,No,Senior or grad student,4,Some other residence,A Job,Mac DeMarco
+7148,0,12,7,"300,000",81,Yes,STAT 200 Online,No,Yes,Senior or grad student,4,Some other residence,Graduate School,Yuuri
+219,0,12.5,6,60000,85,No,STAT 200 Online,Yes,Yes,Senior or grad student,4,Some other residence,A Job,The Eagles
+15,0,13,6,160,58,Yes,STAT 200 Online,No,Yes,Senior or grad student,4,Some other residence,Something else,Marren Morris
+67,1,13,7,110000,92,Yes,STAT 200 Online,No,No,Senior or grad student,4,Some other residence,PA School,blackbear
+123,1,13,7,14,55,No,STAT 200 Online,No,Yes,Senior or grad student,4,Some other residence,Graduate School,nirvana
+140,0,13,8,120000,74,Yes,STAT 200 Online,Yes,No,Senior or grad student,4,Dorm Room,Graduate School,The 1975
+251,0,13,7,400000,72,Yes,STAT 200 Online,No,No,Senior or grad student,4,Some other residence,Graduate School,88 Rising
+6500,0,13,8,700000,63,Yes,STAT 200 Online,No,Yes,Senior or grad student,4,Some other residence,A Job,Tool
+180,0,13.5,7.5,"100,000",75,Yes,STAT 200 Online,Yes,Yes,Senior or grad student,4,Some other residence,Graduate School,Florence and the machine
+100,1,14,5,150000,77,Yes,STAT 200 Online,Yes,No,Senior or grad student,4,Some other residence,A Job,Reol
+120,0,14,5,100000,104,Yes,STAT 200 Online,No,No,Senior or grad student,4,Some other residence,Graduate School,Harry Styles
+172,0,14,6.5,170000,67,Yes,STAT 200 Online,No,No,Senior or grad student,4,Some other residence,A Job,Weston Estate
+6500,3,14,6,0,117,Yes,STAT 200 Online,No,Yes,Senior or grad student,4,Some other residence,Graduate School,BTS
+7000,3,14,7,1000000,77,Yes,STAT 200 Online,No,No,Senior or grad student,4,Dorm Room,Graduate School,tchaikovsky
+7236.93,1,14,5,12000,50,Yes,STAT 200 Online,No,No,Senior or grad student,4,Some other residence,Graduate School,Taylor Swift
+3,1,15,6.5,250000,65,Yes,STAT 200 Online,No,No,Senior or grad student,4,Dorm Room,Graduate School,Troye
+60,2,15,5,150000,85,Yes,STAT 200 Online,Yes,No,Senior or grad student,4,Some other residence,A Job,Maddie Zahm
+129,0,15,7,"80,000",64,Yes,STAT 200 Online,No,Yes,Senior or grad student,4,Dorm Room,Graduate School,BLACKPINK
+135,0,15,6.5,200000,70,Yes,STAT 200 Online,No,No,Senior or grad student,4,Some other residence,A Job,BTS
+146,0,15,7,"60,000",80,Yes,STAT 200 Online,No,No,Senior or grad student,4,Some other residence,A Job,Kip Moore
+177.7,0,15,7,200000,,No,STAT 200 Online,No,No,Senior or grad student,4,Some other residence,A Job,Type O Negative
+888,2,15,6,200000,70,Yes,STAT 200 Online,No,No,Senior or grad student,4,Some other residence,A Job,Rachmaninoff
+1700,0,15,7.2,300000,72,Yes,STAT 200 Online,Yes,Yes,Senior or grad student,4,Some other residence,A Job,Post Malone
+7000,0,15,8,100,72,Yes,STAT 200 Online,Yes,Yes,Senior or grad student,4,Dorm Room,Graduate School,Justin Bieber
+7123,0,15,8,"1,000,000",70,Yes,STAT 200 Online,No,No,Senior or grad student,4,Dorm Room,Graduate School,Taylor Swift
+7800,2,15,7.5,10000000,85,Yes,STAT 200 Online,No,Yes,Senior or grad student,4,Some other residence,A Job,Coldplay
+8000,0,15,8,300000,52,Yes,STAT 200 Online,Yes,No,Senior or grad student,4,Dorm Room,Graduate School,Jay Chou
+85,2,16,7.25,75000,80,No,STAT 200 Online,Yes,No,Senior or grad student,4,Some other residence,A Job,Taylor Swift
+760,0,16,7,300000,65,Yes,STAT 200 Online,No,No,Senior or grad student,4,Some other residence,A Job,The Weeknd
+6633.7588,0,16,8,200000,170,Yes,STAT 200 Online,No,No,Senior or grad student,4,Some other residence,Graduate School,Blackpink
+0.5,0,20,7,70000,48,Yes,STAT 200 Online,No,No,Senior or grad student,4,Some other residence,Graduate School,Peder Elias
+2,0,20,8,"2,000,000",75,Yes,STAT 200 Online,Yes,Yes,Senior or grad student,4,Some other residence,Graduate School,Jack Harlow
+140,1,20,6,350000,98,Yes,STAT 200 Online,Yes,Yes,Senior or grad student,4,Some other residence,A Job,Steve Lacy
+6729,0,20,5.5,"500,000",70,Yes,STAT 200 Online,No,Yes,Senior or grad student,4,Dorm Room,Graduate School,taylor swift
+200,0,25,10,"75,000",70,No,STAT 200 Online,Yes,No,Senior or grad student,4,Some other residence,A Job,Taylor Swift
+6120,1,30,6.5,10000,71,Yes,STAT 200 Online,No,Yes,Senior or grad student,4,Some other residence,Graduate School,Blackpink
+8000,1,7,8.5,200000,73,Yes,STAT 200 Online,Yes,Yes,Sophomore,2,Some other residence,Graduate School,Taylor Swift
+8147,0,8,9,1000000,70,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,Graduate School,imagine dragons
+180,0,9,8,80000,80,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,A Job,Juice World
+451,0,10,7.6,80000,79,Yes,STAT 200 Online,No,Yes,Sophomore,2,Dorm Room,Graduate School,Enya
+7500,0,10,8,"3,000",68,Yes,STAT 200 Online,No,No,Sophomore,2,Dorm Room,Graduate School,Jay Chou
+14000,0,10,6.5,20000,70,Yes,STAT 200 Online,No,No,Sophomore,2,Dorm Room,A Job,Blackpink
+135,0,11,6,"80,000",75,No,STAT 200 Online,Yes,No,Sophomore,2,Some other residence,Graduate School,Maneskin
+7200,0,11,8.5,3000,75,Yes,STAT 200 Online,No,Yes,Sophomore,2,Dorm Room,Graduate School,Jay Chou
+110,4,12,7,75000,80,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,Graduate School,Adele
+150,0,12,8,"100,000",64,Yes,STAT 200 Online,Yes,No,Sophomore,2,Some other residence,Graduate School,Madonna
+153,0,12,8,"100,000",78,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,A Job,SZA
+190,0,12,8,90000,65,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,A Job,Phil Collins
+200,2,12,6.5,150000,77,Yes,STAT 200 Online,No,Yes,Sophomore,2,Some other residence,A Job,The Weeknd
+8000,0,12,7.3,700000,73,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,A Job,the mari¨¢s
+96,0,12.5,6,90000,86,No,STAT 200 Online,Yes,Yes,Sophomore,2,Some other residence,A Job,Beyonce
+114.5,1,12.5,7.5,78000,63,No,STAT 200 Online,No,No,Sophomore,2,Dorm Room,A Job,Florence + the Machine
+163.3,0,12.5,8,150000,60,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,A Job,Taylor Swift
+7148,1,12.5,8,"300,000",100,Yes,STAT 200 Online,No,No,Sophomore,2,Dorm Room,Graduate School,The Weekend
+140,5,12.55,8,100000,66,Yes,STAT 200 Online,Yes,No,Sophomore,2,Dorm Room,A Job,BUSDRIVER
+"2,084.10",0,12.8,7.3,85000,60,Yes,STAT 200 Online,No,Yes,Sophomore,2,Some other residence,A Job,Ed Sheeran
+0.5,0,13,8,200000,78,Yes,STAT 200 Online,No,Yes,Sophomore,2,Some other residence,Graduate School,black pink
+1.5,0,13,9,"1,000,000",60,Yes,STAT 200 Online,No,Yes,Sophomore,2,Dorm Room,A Job,Ariana Grande
+80,1,13,6,50000,84,No,STAT 200 Online,No,No,Sophomore,2,Some other residence,A Job,brakence
+125,0,13,8,"75,000",50,No,STAT 200 Online,No,No,Sophomore,2,Some other residence,Graduate School,DPR IAN
+130,0,13,8,115000,70,No,STAT 200 Online,No,No,Sophomore,2,Some other residence,Graduate School,Kanye West
+137.5,0,13,7,100000,89,Yes,STAT 200 Online,No,No,Sophomore,2,Dorm Room,A Job,Armaan Malik
+140,0,13,8,120000,76,No,STAT 200 Online,No,No,Sophomore,2,Dorm Room,A Job,Charlie Puth
+155,1,13,8.5,40,80,Yes,STAT 200 Online,Yes,No,Sophomore,2,Some other residence,Graduate School,Glass Animals
+160,1,13,8,"200,000",70,Yes,STAT 200 Online,Yes,No,Sophomore,2,Some other residence,Graduate School,Steve Lacy
+162,0,13,7,70000,75,Yes,STAT 200 Online,No,Yes,Sophomore,2,Some other residence,A Job,Harry Styles
+165,0,13,7.5,"130,000",66,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,A Job,"Tyler, The Creator"
+200,0,13,8,"150,000",72,Yes,STAT 200 Online,No,No,Sophomore,2,Dorm Room,A Job,Jackson Wang
+203,0,13,6.5,60000,60,No,STAT 200 Online,Yes,No,Sophomore,2,Some other residence,A Job,Linkin Park
+950,0,13,9,"100,000",80,Yes,STAT 200 Online,Yes,Yes,Sophomore,2,Dorm Room,Something else,SZA
+6585,0,13,7,70000,65,Yes,STAT 200 Online,No,Yes,Sophomore,2,Some other residence,Graduate School,Beyonce
+10000,2,13,6.5,180000,101,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,Graduate School,Jay Chou
+100000,0,13,8,100000,105,Yes,STAT 200 Online,No,No,Sophomore,2,Dorm Room,Graduate School,Vincent Willem van Gogh
+2093,0,13.5,10,120000,54,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,A Job,Vidyasagar
+130,1,14,7.5,100000,65,No,STAT 200 Online,No,No,Sophomore,2,Some other residence,A Job,shawn mendes
+142,0,14,10,80000,76,No,STAT 200 Online,No,No,Sophomore,2,Dorm Room,Graduate School,Pink Floyd
+174,0,14,8,120000,72,Yes,STAT 200 Online,Yes,No,Sophomore,2,Some other residence,A Job,Utada Hikaru
+6700,0.5,14,5.4,500000,73,Yes,STAT 200 Online,No,No,Sophomore,2,Dorm Room,Graduate School,King Gnu
+7183,0,14,9,"56,000",79,Yes,STAT 200 Online,No,Yes,Sophomore,2,Dorm Room,Graduate School,G.E.M
+7225,2,14,7,10000000,2,Yes,STAT 200 Online,No,Yes,Sophomore,2,Some other residence,Graduate School,Mac miller
+7271.3,0,14,8.2,20000,87,Yes,STAT 200 Online,No,No,Sophomore,2,Dorm Room,Graduate School,nana7mi
+8116,2,14,8,2000000,86,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,A Job,Madihu
+14000,0,14,8.5,36000,83,Yes,STAT 200 Online,No,No,Sophomore,2,Dorm Room,A Job,black pink
+60,0,14.5,9,100000,72,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,Graduate School,Nujabes
+0.5,0,15,7,400000,52,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,Graduate School,Jay Chou
+6.5,0,15,8.5,50000,70,No,STAT 200 Online,Yes,Yes,Sophomore,2,Dorm Room,Graduate School,Phoebe Bridgers
+81,1,15,4.5,"150,000",65,No,STAT 200 Online,Yes,No,Sophomore,2,Some other residence,Graduate School,Harry Styles
+118,0,15,7,100000,78,No,STAT 200 Online,No,Yes,Sophomore,2,Some other residence,A Job,Hall & Oates
+130,0,15,7,"100,000",72,No,STAT 200 Online,No,No,Sophomore,2,Dorm Room,A Job,Midland
+130,0,15,7,90000,63,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,A Job,Jay z
+130,0,15,7.5,"60,000",79,No,STAT 200 Online,No,Yes,Sophomore,2,Dorm Room,A Job,Col3trane
+135,0,15,7.5,300000,80,Yes,STAT 200 Online,No,Yes,Sophomore,2,Dorm Room,Graduate School,The Weeknd
+136,1,15,7,100000,78,No,STAT 200 Online,No,Yes,Sophomore,2,Dorm Room,A Job,BTS
+140,0,15,8,"80,000",70,Yes,STAT 200 Online,No,Yes,Sophomore,2,Some other residence,A Job,The Weeknd
+150,0,15,7,"80,000",72,Yes,STAT 200 Online,Yes,No,Sophomore,2,Some other residence,Graduate School,Taylor Swift
+152,0,15,5,180000,74,Yes,STAT 200 Online,No,Yes,Sophomore,2,Some other residence,Graduate School,Kendrick Lamar
+170,0,15,6,"250,000",90,Yes,STAT 200 Online,Yes,No,Sophomore,2,Some other residence,A Job,Steve Lacy
+500,1,15,5,100000,75,Yes,STAT 200 Online,Yes,Yes,Sophomore,2,Dorm Room,Graduate School,harry styles
+758,0,15,7,200000,60,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,A Job,Logic
+2000,0,15,10,1500000,90,Yes,STAT 200 Online,No,Yes,Sophomore,2,Some other residence,A Job,Pop Smoke
+"2,145",3,15,9,150000,63,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,Graduate School,Lana Del Rey
+2160,1,15,7.5,500000,80,Yes,STAT 200 Online,No,No,Sophomore,2,Dorm Room,A Job,Bruno Mars
+"3,875",0,15,6,"500,000",70,Yes,STAT 200 Online,No,Yes,Sophomore,2,Some other residence,A Job,khalid
+6624,0,15,6,100000,80,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,Graduate School,Green Day
+7198,2,15,8,140000,76,Yes,STAT 200 Online,No,Yes,Sophomore,2,Dorm Room,Graduate School,The Police
+"7,500",0,15,8,"200,000",80,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,A Job,Justin Bieber
+7539,0,15,8,"50,000",60,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,Graduate School,Blink 182
+7611,1,15,9,700000,72,Yes,STAT 200 Online,No,Yes,Sophomore,2,Some other residence,A Job,Charlie Puth
+8368,0,15,8.2,400000,100,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,A Job,Imagine Dragons
+9000,0,15,5.5,"300,000",71,Yes,STAT 200 Online,No,Yes,Sophomore,2,Dorm Room,Graduate School,Imagine Dragons
+12427,0,15,8,"10,000",61,Yes,STAT 200 Online,No,No,Sophomore,2,Dorm Room,Graduate School,Avril Lavigne
+14000,0,15,7,300000,60,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,Graduate School,BTS
+102,2,16,7.5,150000,70,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,A Job,Eve
+140,0,16,7,225000,60,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,A Job,Vince Staples
+850,0,16,7.3,300000,80,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,Graduate School,Ado
+173,0,16.5,7.7,93000,81,No,STAT 200 Online,No,Yes,Sophomore,2,Dorm Room,A Job,Hozier
+133,0,17,8,115000,60,No,STAT 200 Online,No,Yes,Sophomore,2,Some other residence,A Job,Hozier
+800,0,17,6.5,300000,70,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,A Job,Kanye West
+0,1,18,7.2,50000,96,Yes,STAT 200 Online,No,Yes,Sophomore,2,Some other residence,A Job,The Longest Johns
+140,1,18,7.5,150000,72,Yes,STAT 200 Online,No,Yes,Sophomore,2,Some other residence,A Job,Dayglow
+2000,0,18,7,1000000,60,Yes,STAT 200 Online,No,No,Sophomore,2,Dorm Room,Graduate School,Arisa Okehazama
+1.5,1,20,5,50000000,60,Yes,STAT 200 Online,Yes,No,Sophomore,2,Some other residence,Something else,lamar
+3,0,20,9,100000,70,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,Something else,BTS
+1817,0,20,7.5,200000,86,Yes,STAT 200 Online,Yes,No,Sophomore,2,Some other residence,Graduate School,Juice Wrld
+2150,0,20,7,250000,65,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,A Job,Tory Lanez
+6213.712,3,20,10,,60,Yes,STAT 200 Online,No,Yes,Sophomore,2,Some other residence,Graduate School,playboi carti
+6213.712,3,20,10,,60,Yes,STAT 200 Online,No,Yes,Sophomore,2,Some other residence,Graduate School,playboi carti
+10000,1,20,7,1000000,96,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,Graduate School,Imagine Dragon
+1500,0,25,8.5,600000,70,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,A Job,JID
+8200,0,25,8,"$106,000 ",70,Yes,STAT 200 Online,No,Yes,Sophomore,2,Dorm Room,A Job,The Weeknd
+7000,0,50,8,0,112,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,Graduate School,Van Gogh
+,1,999,8,,66,Yes,STAT 200 Online,No,No,Sophomore,2,Dorm Room,Graduate School,LAUV!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+145,0,,6,200000,70,Yes,STAT 200 Online,No,No,Sophomore,2,Some other residence,A Job,Creo (@creo_music)
+8164,0,1,8.3,80000,74,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,Medical School,Grent Perez
+10500,1,10,6.3,9000,92,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,Graduate School,Queen
+145,0,11,8,35000,77,No,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,Graduate School,the weekend
+687,0,12,7.3,200000,72,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,A Job,Clairo
+6583.68,0,12.5,7.2,60000,84,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,Graduate School,Toby Fox
+0,0,13,6,125000,70,No,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,Graduate School,SZA
+135,0,13,7.5,200000,72,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,Medical School,Hozier
+141,0,13,6,"500,000",60,Yes,STAT 212 at 11am,No,Yes,Freshman,1,Dorm Room,Medical School,arctic monkeys
+160,0,13,3,"200,126",77,Yes,STAT 212 at 11am,No,Yes,Freshman,1,Dorm Room,Medical School,Harry Styles
+"12,630",0,13,7,500000,72,Yes,STAT 212 at 11am,No,Yes,Freshman,1,Dorm Room,Graduate School,f(x)
+115,1,13.5,9,95000,60,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,Graduate School,Taylor Swift
+130,0,13.5,7.5,"75,000",90,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,A Job,Daniel Caesar
+156,0,13.5,7,62500,75,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,Graduate School,Tchaikovsky
+111,0,14,7.5,200000,75,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,Medical School,Taylor Swift
+115,0,14,6,"100,000",65,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,Something else,Tool
+116,1,14,7,"120,000",72,No,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,PA School,Kanye West
+138,1,14,9,120000,72,No,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,A Job,Maddie and Tae
+149,0,14,7,"130,000",66,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,PA School,SZA
+178,0,14,7.75,"210,000",91,Yes,STAT 212 at 11am,No,Yes,Freshman,1,Dorm Room,Medical School,COIN
+780,0,14,7,"700,000",100,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,Medical School,Kid Cudi
+780,0,14,7,"700,000",100,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,Medical School,Lamar
+6992.9,0,14.5,8,5000000,72,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,Graduate School,Jay chou
+115,0,15,7,350000,80,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,Medical School,Mac Miller
+123,0,15,6,250000,71,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,Medical School,Taylor Swift
+126,0,15,4.5,400000,76,Yes,STAT 212 at 11am,No,Yes,Freshman,1,Some other residence,Medical School,dvorak
+135,0,15,8,200000,70,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,Medical School,Avicii
+145,1,15,8,"250,000",71,Yes,STAT 212 at 11am,No,Yes,Freshman,1,Dorm Room,Medical School,Kendrick Lamar
+160,0,15,7.3,360000,78,Yes,STAT 212 at 11am,No,Yes,Freshman,1,Dorm Room,Medical School,Megan Thee Stallion
+160,0,15,8.5,200000,63,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,Graduate School,Kanye West
+165,0,15,3,200000,102,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,Medical School,BTS
+170,1,15,8,150000,71,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,PA School,Kanye
+6636,0,15,6.5,50000,69,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,Graduate School,King Gnu
+136.5,1,16,9,100000,66,Yes,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,Medical School,The beatles
+120,0,16.5,8,250000,80,No,STAT 212 at 11am,No,No,Freshman,1,Dorm Room,Medical School,Lana Del Rey
+130,0,18,4.5,85000,73,Yes,STAT 212 at 11am,No,No,Freshman,1,Some other residence,Graduate School,Dua Lipa
+98,1,12,7,"150,000",74,Yes,STAT 212 at 11am,No,Yes,Junior,3,Some other residence,Graduate School,Brent Faiyaz
+98,1,12,6,"150,000",75,Yes,STAT 212 at 11am,No,Yes,Junior,3,Some other residence,Graduate School,Brent faiyaz
+160,0,12,9.5,115000,65,Yes,STAT 212 at 11am,No,Yes,Junior,3,Some other residence,A Job,Beabadoobee
+789.5,0,12,7,70000,78,Yes,STAT 212 at 11am,No,No,Junior,3,Some other residence,A Job,Beatles
+54,0,13,8,200000,60,Yes,STAT 212 at 11am,No,No,Junior,3,Some other residence,A Job,Drake
+118,2,13,8.5,200000,67,Yes,STAT 212 at 11am,Yes,No,Junior,3,Some other residence,Something else,Lil Uzi Vert
+120,3,13,10,120000,80,Yes,STAT 212 at 11am,Yes,No,Junior,3,Some other residence,PA School,The Strokes
+140,0,13,7.5,150000,60,Yes,STAT 212 at 11am,Yes,No,Junior,3,Some other residence,Medical School,Kendrick Lamar
+8500,0,13,9,200000,63,Yes,STAT 212 at 11am,No,No,Junior,3,Some other residence,A Job,Drake
+149.6,0,13.5,8,"450,000",70,No,STAT 212 at 11am,No,No,Junior,3,Some other residence,Medical School,Bad Bunny
+0,0,14,8,95000,86,Yes,STAT 212 at 11am,Yes,No,Junior,3,Some other residence,Medical School,Camila Cabello
+98,0,14,6.5,300000,68,Yes,STAT 212 at 11am,Yes,Yes,Junior,3,Some other residence,Dental School,Daft Punk
+140,1,14,7,"110,000",60,No,STAT 212 at 11am,Yes,Yes,Junior,3,Some other residence,Graduate School,JID
+150,0,14,6,"300,000",60,Yes,STAT 212 at 11am,No,No,Junior,3,Some other residence,Medical School,Khalid
+150,1,14,4.5,100000,70,Yes,STAT 212 at 11am,Yes,No,Junior,3,Some other residence,A Job,The Lumineers
+890,4,14,6,300000,70,Yes,STAT 212 at 11am,No,No,Junior,3,Some other residence,Medical School,drake
+20,0,15,6,"90,000",76,No,STAT 212 at 11am,Yes,No,Junior,3,Some other residence,A Job,Bazzi
+89,0,15,5,500000,54,Yes,STAT 212 at 11am,No,No,Junior,3,Dorm Room,Medical School,drake
+100,0,15,10,"1,000,000",60,Yes,STAT 212 at 11am,No,No,Junior,3,Some other residence,Graduate School,Rihanna
+120,0,15,8.5,0,83,Yes,STAT 212 at 11am,Yes,No,Junior,3,Some other residence,A Job,Sia
+123,1,15,5,300000,60,Yes,STAT 212 at 11am,No,No,Junior,3,Dorm Room,Dental School,Bruno Mars
+130,0,15,6,200000,68,Yes,STAT 212 at 11am,Yes,Yes,Junior,3,Some other residence,Dental School,Role Model
+135,1,15,6.5,1000000000,65,Yes,STAT 212 at 11am,Yes,No,Junior,3,Some other residence,Something else,Gunna
+140,2,15,9,110000,73,Yes,STAT 212 at 11am,No,Yes,Junior,3,Some other residence,Something else,Hippocampus
+140,0,15,8.5,150000,140,Yes,STAT 212 at 11am,No,No,Junior,3,Some other residence,Medical School,Eric Nam
+145,0,15,9,100000,73,Yes,STAT 212 at 11am,No,Yes,Junior,3,Some other residence,PA School,Tame Impala
+145,2,15,6,300000,57,Yes,STAT 212 at 11am,Yes,No,Junior,3,Dorm Room,Dental School,J. Cole
+149,0,15,8,65000,70,No,STAT 212 at 11am,No,Yes,Junior,3,Dorm Room,Graduate School,"Matthieu Chedid, -M-"
+150,0,15,5.2,600000,65,Yes,STAT 212 at 11am,Yes,No,Junior,3,Some other residence,Medical School,Nardo Wick
+200,0,15,8,"100,000",60,No,STAT 212 at 11am,No,Yes,Junior,3,Some other residence,Graduate School,Talking Heads
+200,0,15,7.5,120000,80,Yes,STAT 212 at 11am,Yes,Yes,Junior,3,Some other residence,PA School,SZA
+238,1,15,10,250000,60,Yes,STAT 212 at 11am,Yes,No,Junior,3,Some other residence,Medical School,Yoasobi
+4000,3,15,10,"150,000",66,Yes,STAT 212 at 11am,Yes,No,Junior,3,Some other residence,Graduate School,Artic Monkeys
+137,,15.75,8,70000,70,No,STAT 212 at 11am,No,No,Junior,3,Some other residence,Medical School,SZA
+150,0,16,5.5,400000,74,Yes,STAT 212 at 11am,No,No,Junior,3,Some other residence,Graduate School,Drake
+170,0,18,9,100000,65,No,STAT 212 at 11am,No,No,Junior,3,Some other residence,A Job,Greta Van Fleet
+89.4,1,20,6,"300,000",76,Yes,STAT 212 at 11am,No,Yes,Junior,3,Some other residence,Graduate School,Kanye
+150,5,20,7.5,240000,90,Yes,STAT 212 at 11am,Yes,Yes,Junior,3,Some other residence,Medical School,denzel curry
+162,0,20,6.5,392000,71,Yes,STAT 212 at 11am,Yes,Yes,Junior,3,Dorm Room,Medical School,Dominic Fike
+145,1,25,7,"150,000",77,Yes,STAT 212 at 11am,Yes,No,Junior,3,Some other residence,Graduate School,Doja Cat
+131,1,60,8,200000,80,Yes,STAT 212 at 11am,No,No,Junior,3,Some other residence,Medical School,Taylor Swift
+120,0,10,7,70000,90,Yes,STAT 212 at 11am,Yes,Yes,Senior or grad student,4,Some other residence,Graduate School,Mogwai
+160,0,10,8,90000,80,No,STAT 212 at 11am,Yes,No,Senior or grad student,4,Some other residence,A Job,Billie Eilish
+7866,0,10.5,6,50000,69,Yes,STAT 212 at 11am,No,No,Senior or grad student,4,Some other residence,Graduate School,Jay Chou
+16,2,12.5,8,70969,66,No,STAT 212 at 11am,Yes,No,Senior or grad student,4,Some other residence,Graduate School,Mitski
+200,0,13,7,100000,72,Yes,STAT 212 at 11am,Yes,Yes,Senior or grad student,4,Some other residence,Graduate School,Kacey Musgraves
+144,0,13.5,7,85000,60,Yes,STAT 212 at 11am,Yes,No,Senior or grad student,4,Some other residence,Graduate School,Mac Demarco
+0,2,15,8,70000,60,Yes,STAT 212 at 11am,No,No,Senior or grad student,4,Some other residence,Graduate School,Freddie Gibbs
+4.1,0,15,6,25000,64,Yes,STAT 212 at 11am,Yes,No,Senior or grad student,4,Some other residence,Medical School,JID
+100,1,15,7,250000,70,No,STAT 212 at 11am,Yes,Yes,Senior or grad student,4,Some other residence,Graduate School,Drive-by Truckers
+125,0,15,6,100000,54,Yes,STAT 212 at 11am,No,No,Senior or grad student,4,Some other residence,Graduate School,Sade
+125,1,15,6,90000,79,No,STAT 212 at 11am,No,No,Senior or grad student,4,Some other residence,Graduate School,AJR
+2063,0,15,2.9,150000,78,Yes,STAT 212 at 11am,Yes,Yes,Senior or grad student,4,Some other residence,Medical School,Pepe Aguilar
+300,0,16,6.5,"300,000",104,Yes,STAT 212 at 11am,Yes,Yes,Senior or grad student,4,Some other residence,A Job,A Tribe Called Quest
+48.6,0,16.5,6.5,"750,000",63,Yes,STAT 212 at 11am,Yes,No,Senior or grad student,4,Some other residence,PA School,Damian Marley
+0,0,20,8,300000,90,No,STAT 212 at 11am,Yes,No,Senior or grad student,4,Some other residence,Medical School,Beyonce
+141.1,0,20,9,200000,75,Yes,STAT 212 at 11am,Yes,Yes,Senior or grad student,4,Some other residence,A Job,Young Dolph
+151,0,20,8,100000,78,Yes,STAT 212 at 11am,Yes,No,Senior or grad student,4,Some other residence,PA School,Stevie Wonder
+180,4,10,2.9,"70,000",90,Yes,STAT 212 at 11am,Yes,Yes,Sophomore,2,Some other residence,Medical School,Zach Bryan
+49,0,12,7,30000,90,Yes,STAT 212 at 11am,Yes,No,Sophomore,2,Some other residence,A Job,AURORA
+50,4,12,6,350000,55,No,STAT 212 at 11am,Yes,No,Sophomore,2,Dorm Room,Medical School,Jax
+125,1,12,7,500000,70,Yes,STAT 212 at 11am,Yes,No,Sophomore,2,Dorm Room,Medical School,Maroon 5
+127,0,12,9,200000,55,Yes,STAT 212 at 11am,Yes,Yes,Sophomore,2,Some other residence,Graduate School,Joji
+135,1,12,6,"120,000",80,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Dorm Room,A Job,Cage the Elephant
+138,0,12,8,31000,72,No,STAT 212 at 11am,No,Yes,Sophomore,2,Dorm Room,Something else,Tame impala
+200,0,12,9,70000,92,No,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Graduate School,NIKI
+5,0,13,7.5,"100,000",75,Yes,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Graduate School,Bjork
+45,0,13,6,100000,88,No,STAT 212 at 11am,No,Yes,Sophomore,2,Some other residence,Medical School,Fleetwood Mac
+50,1,13,7,"80,000",70,No,STAT 212 at 11am,No,Yes,Sophomore,2,Some other residence,A Job,The Flaming Lips
+100,0,13,8,"270,000",130,No,STAT 212 at 11am,Yes,Yes,Sophomore,2,Some other residence,Medical School,Taylor swift
+115,0,13,6.5,1000000,84,No,STAT 212 at 11am,No,No,Sophomore,2,Dorm Room,Medical School,Jamiroquai
+115,2,13,8,100000,81,No,STAT 212 at 11am,Yes,No,Sophomore,2,Some other residence,Medical School,Nothing But Thieves
+119,0,13,7,,88,Yes,STAT 212 at 11am,Yes,No,Sophomore,2,Dorm Room,Medical School,lil durk
+120,0,13,6,"220,000",84,No,STAT 212 at 11am,Yes,Yes,Sophomore,2,Some other residence,Medical School,Adele
+130,0,13,6,"150,000",72,No,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Medical School,the weeknd
+136,1,13,11,"80,000",65,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Some other residence,Something else,Lana Del Ray
+140,7,13,6,400000,66,Yes,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Medical School,kendrick lamar
+153,0,13,6,"90,000",65,No,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Graduate School,Ado
+200,0,13,8,90000,72,No,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Medical School,The Weeknd
+135,1,13.5,7.3,"200,000",74,No,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Medical School,Beyonce
+142.1,0,13.5,5.5,"90,000",73,Yes,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Graduate School,DJO
+815,1,13.5,8,"400,000",77,Yes,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Medical School,Mac Miller
+51,0,14,8,"212,925",72,Yes,STAT 212 at 11am,Yes,No,Sophomore,2,Some other residence,Medical School,Lana Del Ray
+55,1,14,7.5,"80,000",75,No,STAT 212 at 11am,No,Yes,Sophomore,2,Some other residence,Graduate School,Glass Animals
+82,0,14,8.5,"250,000",89,No,STAT 212 at 11am,Yes,No,Sophomore,2,Dorm Room,Something else,Nirvana
+100,0,14,7,"200,000",20,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Some other residence,Medical School,Camila Cabello
+109,0,14,,80000,120,No,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,A Job,Wilco
+110,0,14,6,300000,100,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Some other residence,Medical School,Bruno Mars
+115,0,14,8,"250,000",85,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Dorm Room,Medical School,Lana Del Ray
+125,0,14,7,"120,000",57,Yes,STAT 212 at 11am,Yes,No,Sophomore,2,Some other residence,Medical School,Taylor Swift
+132,0,14,7,"180,000",96,No,STAT 212 at 11am,Yes,Yes,Sophomore,2,Some other residence,Dental School,Megan Thee Stallion
+137,3,14,5,200,58,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Some other residence,Medical School,the piano guys
+140,0,14,7.5,150000,80,No,STAT 212 at 11am,Yes,Yes,Sophomore,2,Some other residence,A Job,Harry Styles
+140,0,14,7.5,150000,80,No,STAT 212 at 11am,Yes,Yes,Sophomore,2,Some other residence,A Job,Harry Styles
+145,0,14,5.5,250000,65,No,STAT 212 at 11am,Yes,Yes,Sophomore,2,Some other residence,Dental School,Harry Styles
+145,8,14,6.5,115000,86,No,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,A Job,Trippie Redd
+150,0,14,7,"200,000",80,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Some other residence,Medical School,Old Dominion
+150,0,14,7,300000,70,Yes,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Medical School,Bad Bunny
+50,0,14.5,6,180000,90,No,STAT 212 at 11am,Yes,No,Sophomore,2,Dorm Room,Medical School,durk
+121.6,0,14.5,6.75,200000,67,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Some other residence,Medical School,Alie Gatie
+150,0,14.5,8,"600,000",55,Yes,STAT 212 at 11am,No,No,Sophomore,2,Dorm Room,Medical School,Cigarette After Sex
+165,2,14.5,6.5,"100,000",66,Yes,STAT 212 at 11am,No,No,Sophomore,2,Dorm Room,Medical School,NIKI
+100,0,15,7,"350,000",58,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Some other residence,Medical School,Rex Orange County
+101,1,15,7,100000,90,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Some other residence,Something else,Oasis
+111,2,15,6,120000,75,Yes,STAT 212 at 11am,Yes,Yes,Sophomore,2,Some other residence,PA School,Taylor Swift
+113,1,15,7.5,100000000,75,No,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Dental School,Future
+115,0,15,8,100000,68,No,STAT 212 at 11am,Yes,No,Sophomore,2,Some other residence,Graduate School,Nothing But Thieves
+120,0,15,6,130000,79,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Some other residence,A Job,Ghostemane
+120.1,0,15,7.9,"160,000",75,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Some other residence,Medical School,La Rosal¨ªa
+124,0,15,7,150000,60,Yes,STAT 212 at 11am,No,No,Sophomore,2,Dorm Room,PA School,Chief Keef
+125,0,15,7.1,"70,000",91,Yes,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Graduate School,Arctic Monkeys
+135,2,15,8,100000,75,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Some other residence,Medical School,Taylor swift
+135,1,15,8.2,"200,000",73,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Some other residence,Medical School,Ludovico Einaudi
+137,0,15,7,"110,000",72,Yes,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,PA School,Drake
+140,3,15,7.5,"250,000",68,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Dorm Room,Graduate School,Justin Bieber
+140,1,15,7.5,100000,71,No,STAT 212 at 11am,Yes,Yes,Sophomore,2,Some other residence,Medical School,Scarlet Demore
+140,4,15,7,100000,58,No,STAT 212 at 11am,No,No,Sophomore,2,Dorm Room,Something else,lil uzi vert
+143,0,15,5.5,"300,000",90,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Some other residence,Medical School,Lana Del Ray
+143,1,15,0,500000,67,Yes,STAT 212 at 11am,No,No,Sophomore,2,Dorm Room,Dental School,2Pac
+149,0,15,7,"100,000",72,Yes,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,PA School,doja cat
+150,0,15,8,150,85,No,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Medical School,Mitski
+150,0,15,7,"400,000",68,Yes,STAT 212 at 11am,No,No,Sophomore,2,Dorm Room,Medical School,Drake
+150,0,15,7,"70,000",70,Yes,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Medical School,Rae Sremmurd
+155,1,15,8.3,120000,67,No,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Medical School,Bad Bunny
+166,0,15,12,300000,91,No,STAT 212 at 11am,No,Yes,Sophomore,2,Dorm Room,Medical School,bob Marley
+170,0,15,4,100000,130,Yes,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Graduate School,Rex Orange County
+2000,1,15,9,100000,80,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Some other residence,Graduate School,Frank ocean
+6563,1,15,5,100000,60,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Dorm Room,Medical School,Akdong musician
+8000,0,15,8,0,70,Yes,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Graduate School,Hoshino Gen
+2,1,16,5.5,1000000,76,Yes,STAT 212 at 11am,Yes,No,Sophomore,2,Some other residence,A Job,J Cole
+90,0,16,5.5,150000,76,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Dorm Room,Medical School,Bad Bunny
+110,0,16,4,150000,74,No,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Graduate School,Pierre Bourne
+136,0,16,6.5,62000,75,Yes,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Graduate School,The Strokes
+138,3,16,6.5,"400,000",66,Yes,STAT 212 at 11am,No,No,Sophomore,2,Dorm Room,Medical School,Kendrick Lamar
+145,0,16,8,100000,68,Yes,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Something else,Rod Wave
+150,0,16,3.5,"180,000",58,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Some other residence,Medical School,Kanye
+2109.6,0,16,9.5,200000,80,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Dorm Room,Medical School,Taylor Swift
+151,0,16.5,7,200000,72,Yes,STAT 212 at 11am,No,No,Sophomore,2,Dorm Room,Medical School,Beatles
+200,0,17,7,"200,000.00",53,Yes,STAT 212 at 11am,No,No,Sophomore,2,Dorm Room,Medical School,Coldplay
+113,0,18,8,75000,76,Yes,STAT 212 at 11am,Yes,No,Sophomore,2,Some other residence,Dental School,Tyler the Creator
+1813,0,18,9,400000,65,Yes,STAT 212 at 11am,No,No,Sophomore,2,Dorm Room,Graduate School,DeBarge
+137,0,18.5,9,"250,000",75,Yes,STAT 212 at 11am,Yes,No,Sophomore,2,Some other residence,Dental School,POP SMOKE
+136,0,20,8,400000,64,Yes,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Medical School,eminem
+141,0,20,7.3,"90,000",66,No,STAT 212 at 11am,Yes,No,Sophomore,2,Dorm Room,Medical School,Foster The People
+840,1,20,7.5,"200,000",72,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Some other residence,Medical School,Taylor Swift
+6600,1,20,7,"100,000",70,Yes,STAT 212 at 11am,No,Yes,Sophomore,2,Dorm Room,Medical School,Coldplay
+1,1,,7,80000,81,Yes,STAT 212 at 11am,No,No,Sophomore,2,Some other residence,Graduate School,BTS
+11350,0,1.84,7.5,54000,84,Yes,STAT 212 at 12pm,No,No,Freshman,1,Dorm Room,A Job,Nightwish
+109,0,12,8.5,300000,68,Yes,STAT 212 at 12pm,No,Yes,Freshman,1,Dorm Room,Medical School,Imagine Dragons
+145,0,12,7,130,70,Yes,STAT 212 at 12pm,No,No,Freshman,1,Dorm Room,Graduate School,Laufey
+176.3,0,12,9,300000,75,Yes,STAT 212 at 12pm,No,No,Freshman,1,Dorm Room,Medical School,Taylor Swift
+150,0,12.5,9,300000,72,Yes,STAT 212 at 12pm,No,No,Freshman,1,Dorm Room,Medical School,Dayglow
+154,0,12.5,6.5,50000,67,No,STAT 212 at 12pm,No,No,Freshman,1,Dorm Room,Medical School,ClariS
+0,2,13,8,61479,38,Yes,STAT 212 at 12pm,No,No,Freshman,1,Dorm Room,Medical School,BTS
+117,0,13,6.5,1000000,73,Yes,STAT 212 at 12pm,No,Yes,Freshman,1,Dorm Room,Medical School,Kanye
+124,3,13,9,"300,000",65,Yes,STAT 212 at 12pm,No,Yes,Freshman,1,Dorm Room,Graduate School,21 savage
+130,2,13,8,"150,000",75,Yes,STAT 212 at 12pm,No,No,Freshman,1,Dorm Room,A Job,Machine Gun Kelly
+167,0,13,5,"200,000",75,Yes,STAT 212 at 12pm,No,Yes,Freshman,1,Dorm Room,Medical School,The Weeknd
+185,0,13,8.5,100000,97,Yes,STAT 212 at 12pm,No,Yes,Freshman,1,Dorm Room,Graduate School,Lana del Rey
+200,1,13,7.5,120000,48,Yes,STAT 212 at 12pm,Yes,No,Freshman,1,Dorm Room,Medical School,"One direction 
+"
+163,3,13.5,7.5,"70,000",73,Yes,STAT 212 at 12pm,No,No,Freshman,1,Dorm Room,Medical School,Kanye West
+125,0,14,7.5,"300,000",55,Yes,STAT 212 at 12pm,No,Yes,Freshman,1,Dorm Room,Medical School,Lana Del Rey
+150,1,14,8.5,250000,71,Yes,STAT 212 at 12pm,No,Yes,Freshman,1,Dorm Room,Medical School,kanye
+169.8,0,14,5,40000,84,No,STAT 212 at 12pm,No,No,Freshman,1,Dorm Room,Something else,Lana Del Rey
+,115,14,7.5,130000,71,Yes,STAT 212 at 12pm,No,Yes,Freshman,1,Dorm Room,PA School,Luke Bryan
+168,0,15,9.75,"80,000",57,Yes,STAT 212 at 12pm,No,No,Freshman,1,Dorm Room,Graduate School,Madison Beer
+200,0,15,5,500000,72,Yes,STAT 212 at 12pm,No,No,Freshman,1,Dorm Room,Medical School,Harry Styles
+"2,000",1,15,6,"150,000",67,Yes,STAT 212 at 12pm,No,Yes,Freshman,1,Dorm Room,Graduate School,Juice Wrld
+2166,0,15,10,60000,96,Yes,STAT 212 at 12pm,No,No,Freshman,1,Dorm Room,Medical School,Glass Animals
+7500,0,15,8.5,200000,65,Yes,STAT 212 at 12pm,No,No,Freshman,1,Dorm Room,Graduate School,Cecile Corbel
+8500,3,15,7,1000000,80,Yes,STAT 212 at 12pm,No,Yes,Freshman,1,Dorm Room,A Job,ColdPlay
+164,1,17,7,400000,92,Yes,STAT 212 at 12pm,No,No,Freshman,1,Dorm Room,Medical School,Frank Ocean
+115,1,18,9.5,"500,000",60,Yes,STAT 212 at 12pm,No,No,Freshman,1,Dorm Room,Medical School,Lil baby
+2150,0,18,7.4,1500000,66,Yes,STAT 212 at 12pm,No,No,Freshman,1,Dorm Room,Graduate School,
+115,5,7.25,7.5,400000,87,No,STAT 212 at 12pm,No,No,Junior,3,Some other residence,Medical School,Tame Impala
+1,0,12,12,1000000,67,Yes,STAT 212 at 12pm,Yes,No,Junior,3,Some other residence,A Job,Jay Chou
+110,0,12,8.5,"60,000",72,Yes,STAT 212 at 12pm,Yes,Yes,Junior,3,Some other residence,Medical School,ABBA
+123,0,12,5,"400,000",90,Yes,STAT 212 at 12pm,No,No,Junior,3,Some other residence,Medical School,Kanye
+1,0,13,6,3600000,65,Yes,STAT 212 at 12pm,No,No,Junior,3,Some other residence,Graduate School,LiSA
+140,2,13,9.5,1000000,80,Yes,STAT 212 at 12pm,No,Yes,Junior,3,Some other residence,A Job,Denzel Curry
+150,0,13,7,"65,000",70,No,STAT 212 at 12pm,Yes,No,Junior,3,Some other residence,Dental School,harry styles
+6620,1,13,7,"90,000",77,Yes,STAT 212 at 12pm,No,No,Junior,3,Dorm Room,Graduate School,Why Don't We
+7233,2,13,7,200000,80,Yes,STAT 212 at 12pm,No,No,Junior,3,Some other residence,Graduate School,The eagles
+47.5,1,14,7,"120,000",76,No,STAT 212 at 12pm,Yes,No,Junior,3,Dorm Room,Medical School,Greenday
+130,2,14,6.25,100000,72,Yes,STAT 212 at 12pm,No,No,Junior,3,Dorm Room,Graduate School,tame impala
+150,0,14,7.5,300000,68,Yes,STAT 212 at 12pm,No,No,Junior,3,Some other residence,Dental School,ZHU
+150,0,14,5.2,120000,52,Yes,STAT 212 at 12pm,Yes,No,Junior,3,Some other residence,A Job,Dua Lipa
+170,0,14,7.5,200000,70,Yes,STAT 212 at 12pm,No,No,Junior,3,Some other residence,Medical School,Maroon 5
+159,2,14.5,8.6,"313,100",84,Yes,STAT 212 at 12pm,No,No,Junior,3,Some other residence,Medical School,The Lumineers
+108,0,15,8.5,200000,74,Yes,STAT 212 at 12pm,No,Yes,Junior,3,Some other residence,Medical School,TXT
+120,0,15,7,150000,84,Yes,STAT 212 at 12pm,Yes,No,Junior,3,Some other residence,Graduate School,kenshi yonezu
+130,0,15,4.5,55000,66,No,STAT 212 at 12pm,Yes,No,Junior,3,Some other residence,Graduate School,"The Backseat Lovers
+"
+135,0,15,6,200000,60,No,STAT 212 at 12pm,Yes,No,Junior,3,Some other residence,Medical School,Beyonce
+135.4,0,15,7.5,"150,000",90,Yes,STAT 212 at 12pm,No,No,Junior,3,Some other residence,Medical School,Joe Hisaishi
+141,0,15,7.5,"350,000",92,No,STAT 212 at 12pm,No,No,Junior,3,Some other residence,Medical School,The Neighbourhood
+144,0,15,9,"60,000",65,No,STAT 212 at 12pm,No,No,Junior,3,Some other residence,Graduate School,EDEN
+150,0,15,6,350000,66,No,STAT 212 at 12pm,Yes,No,Junior,3,Some other residence,Medical School,Taylor Swift
+150,0,15,6.5,250000,79,Yes,STAT 212 at 12pm,No,No,Junior,3,Dorm Room,Medical School,Zayn
+150,0,15,7,70000,70,Yes,STAT 212 at 12pm,Yes,No,Junior,3,Some other residence,Graduate School,Post Malone
+153.1,0,15,6,300000,73,Yes,STAT 212 at 12pm,No,Yes,Junior,3,Some other residence,Medical School,joji
+153.3,0,15,7,250000,55,Yes,STAT 212 at 12pm,Yes,No,Junior,3,Some other residence,Graduate School,Lukas Graham
+170,3,15,7,"170,000",63,Yes,STAT 212 at 12pm,Yes,Yes,Junior,3,Some other residence,Medical School,Zach Bryan
+180,1,15,4.5,150000,68,Yes,STAT 212 at 12pm,Yes,Yes,Junior,3,Some other residence,Graduate School,Johann Bach
+500,3,15,9.5,250000,50,Yes,STAT 212 at 12pm,Yes,No,Junior,3,Some other residence,A Job,Hilltop Hoods
+2200,0,15,8,100000,110,Yes,STAT 212 at 12pm,No,No,Junior,3,Some other residence,Graduate School,Childish Gambino
+6959.3574,0,15,7,"100,000",80,Yes,STAT 212 at 12pm,No,No,Junior,3,Some other residence,Graduate School,Ariana Grande
+150,1,15.5,8.4,678000,76,Yes,STAT 212 at 12pm,No,No,Junior,3,Some other residence,Medical School,Neffex
+105,0,16,6.5,100000,84,Yes,STAT 212 at 12pm,No,No,Junior,3,Dorm Room,Graduate School,Billie Eilish
+110,2,16,8.5,200000,68,No,STAT 212 at 12pm,Yes,Yes,Junior,3,Some other residence,Medical School,The Killers
+160,2,17,8.5,"200,000",59,Yes,STAT 212 at 12pm,Yes,Yes,Junior,3,Some other residence,Medical School,Still Woozy
+215,2,17,7.5,360000,75,Yes,STAT 212 at 12pm,No,No,Junior,3,Some other residence,Medical School,Taylor Swift
+100,0,18,6,90000,49,No,STAT 212 at 12pm,No,Yes,Junior,3,Dorm Room,Graduate School,Machine Gun Kelly
+100,2,10,8,1000000,75,No,STAT 212 at 12pm,Yes,No,Senior or grad student,4,Some other residence,A Job,GANG GREEN
+107,2,13,7.5,"90,000",55,No,STAT 212 at 12pm,Yes,Yes,Senior or grad student,4,Some other residence,Graduate School,Taylor Swift
+270,2,13,8,"100,000",87,Yes,STAT 212 at 12pm,Yes,No,Senior or grad student,4,Some other residence,Graduate School,Faye Webster
+6425,2,13,7,"150,000",69,Yes,STAT 212 at 12pm,No,Yes,Senior or grad student,4,Dorm Room,Graduate School,post malone
+10000,2,13,8,300000,70,Yes,STAT 212 at 12pm,Yes,No,Senior or grad student,4,Some other residence,Graduate School,Lauv
+100,2,14,7,180,60,Yes,STAT 212 at 12pm,Yes,No,Senior or grad student,4,Some other residence,A Job,Glass Animals
+150,2,14,9,65000,78,Yes,STAT 212 at 12pm,Yes,Yes,Senior or grad student,4,Some other residence,Graduate School,Beyonce
+120,2,15,7.5,150000,85,No,STAT 212 at 12pm,Yes,No,Senior or grad student,4,Some other residence,Something else,Beyonc¨¦
+172,2,15,4,"150,000",52,Yes,STAT 212 at 12pm,Yes,No,Senior or grad student,4,Some other residence,Dental School,Bad Bunny <3
+190,2,15,8,500000,73,No,STAT 212 at 12pm,Yes,No,Senior or grad student,4,Some other residence,Graduate School,Tchaikovsky
+867,2,15,8.5,80000,88,Yes,STAT 212 at 12pm,Yes,Yes,Senior or grad student,4,Dorm Room,Graduate School,FINNEAS
+"4,500",2,16,6,"100,000",58,Yes,STAT 212 at 12pm,No,Yes,Senior or grad student,4,Some other residence,Something else,Linkin Park
+160,2,20,6.5,"150,000",72,Yes,STAT 212 at 12pm,Yes,No,Senior or grad student,4,Some other residence,Graduate School,ACDC
+"10,000",2,20,6.5,"100,000",84,Yes,STAT 212 at 12pm,No,No,Senior or grad student,4,Dorm Room,A Job,Taylor Swift
+125,0,10,7,70000,70,Yes,STAT 212 at 12pm,No,Yes,Sophomore,2,Dorm Room,Graduate School,Tame Impala
+134,0,11,8,1000000,85,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Dorm Room,Graduate School,ace of hearts
+140,0,11,5.3,125000,62,Yes,STAT 212 at 12pm,No,Yes,Sophomore,2,Some other residence,Medical School,Tyler The Creator
+7056.9,3,11,7.5,90000,59,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Dorm Room,Graduate School,Joe Hisaishi
+94,0,12,6.5,240000,68,Yes,STAT 212 at 12pm,Yes,Yes,Sophomore,2,Some other residence,Medical School,Rex Orange County
+115,0,12,6.5,175000,68,Yes,STAT 212 at 12pm,No,Yes,Sophomore,2,Some other residence,A Job,Swedish House Mafia
+122,0,12,7.5,90000,77,No,STAT 212 at 12pm,No,No,Sophomore,2,Dorm Room,Graduate School,Radiohead
+1300,0,12,6,"120,000",80,Yes,STAT 212 at 12pm,No,Yes,Sophomore,2,Some other residence,Graduate School,XMASwu
+179,0,12.5,9,200000,75,Yes,STAT 212 at 12pm,No,Yes,Sophomore,2,Dorm Room,Medical School,Kayne West
+3,0,13,8.5,175000,72,No,STAT 212 at 12pm,No,No,Sophomore,2,Dorm Room,Graduate School,JVKE
+46,0,13,8,100000,56,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,Medical School,Remy
+100,0,13,8.5,110000,68,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,Graduate School,Olivia Rodrigo
+113,0,13,7,"250,000",92,Yes,STAT 212 at 12pm,No,Yes,Sophomore,2,Some other residence,Medical School,John Summit
+115,2,13,7,170000,62,Yes,STAT 212 at 12pm,No,Yes,Sophomore,2,Some other residence,Medical School,taylor swift
+118,1,13,8,"80,000",70,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,Medical School,The Weeknd
+125,0,13,7.5,"200,000",79,Yes,STAT 212 at 12pm,Yes,No,Sophomore,2,Some other residence,Medical School,Drake
+125,0,13,6.5,300000,72,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,Medical School,tyler the creator
+127,0,13,7,140000,70,Yes,STAT 212 at 12pm,Yes,Yes,Sophomore,2,Some other residence,PA School,Harry Styles
+140,0,13,7,80000,52,No,STAT 212 at 12pm,No,Yes,Sophomore,2,Some other residence,PA School,Chris Stapleton
+140,1,13,7.5,,72,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,Graduate School,Deftones
+150,0,13,10,"200,000",90,No,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,Medical School,Kanye West
+150,2,13,8,150000,75,Yes,STAT 212 at 12pm,Yes,Yes,Sophomore,2,Dorm Room,Medical School,Drake
+185,0,13,6.5,85000,90,No,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,A Job,Poor Man's Poison
+764,0,13,6.5,"175,000",85,Yes,STAT 212 at 12pm,No,Yes,Sophomore,2,Some other residence,Medical School,Zayn Malik and Ali Gatie
+2127.5,0,13,7,20000000,72,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,Graduate School,IU
+8540,0,13,8,400000,60,Yes,STAT 212 at 12pm,No,Yes,Sophomore,2,Some other residence,Medical School,Central Cee
+190,1,13.25,6.5,"100,000",74,Yes,STAT 212 at 12pm,Yes,Yes,Sophomore,2,Some other residence,Graduate School,Creedence Clearwater Revival Band
+127,3,13.5,7,100000,70,Yes,STAT 212 at 12pm,No,Yes,Sophomore,2,Dorm Room,Medical School,Wallows
+150,0,13.5,8,250000,68,Yes,STAT 212 at 12pm,Yes,Yes,Sophomore,2,Some other residence,Medical School,Giveon
+178,0,13.5,7.1,60000,88,No,STAT 212 at 12pm,No,Yes,Sophomore,2,Dorm Room,Something else,The Backseat Lovers
+3,1,14,6,300,90,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,Medical School,juice wrld
+12,5,14,8.9,110000,100,Yes,STAT 212 at 12pm,Yes,Yes,Sophomore,2,Some other residence,PA School,Tyler Childers
+70,0,14,6.5,400000,55,Yes,STAT 212 at 12pm,No,Yes,Sophomore,2,Some other residence,Medical School,J. Cole
+105,0,14,5.5,"200,000",65,Yes,STAT 212 at 12pm,Yes,No,Sophomore,2,Some other residence,Medical School,Juice WRLD
+135,0,14,6,60000,70,No,STAT 212 at 12pm,No,No,Sophomore,2,Dorm Room,A Job,NCT
+137,2,14,8,200000,76,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,Medical School,Red Hot Chili Peppers
+150,0,14,8.2,100000,60,No,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,A Job,Denzel Curry
+150,5,14,7.2,200000,97,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Dorm Room,Medical School,Post Malone
+170,0,14,7,100000,88,Yes,STAT 212 at 12pm,Yes,No,Sophomore,2,Some other residence,Medical School,Kendrick Lamar
+175,0,14,6.5,200,70,Yes,STAT 212 at 12pm,Yes,No,Sophomore,2,Dorm Room,Medical School,Pierce The Veil
+830,1,14,10,150000,73,No,STAT 212 at 12pm,No,Yes,Sophomore,2,Dorm Room,Graduate School,Lana del rey
+8228,1,14,8.5,"100,000",64,Yes,STAT 212 at 12pm,No,Yes,Sophomore,2,Some other residence,Medical School,MAGS
+140,0,14.5,7.2,"250,000",101,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,Medical School,Kendrick Lamar
+2000,1,14.5,7.5,200000,55,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,Medical School,Porter Robinson
+6621.3,0,14.5,5,450000,69,Yes,STAT 212 at 12pm,No,Yes,Sophomore,2,Dorm Room,Medical School,Flora Cash
+0,0,15,8,120000,74,Yes,STAT 212 at 12pm,Yes,No,Sophomore,2,Some other residence,A Job,Drake
+54,1,15,7,450000,64,No,STAT 212 at 12pm,Yes,No,Sophomore,2,Some other residence,Medical School,Dance Gavin Dance
+110,0,15,8,"150,000",70,Yes,STAT 212 at 12pm,Yes,No,Sophomore,2,Some other residence,Medical School,Leonardo da Vinci
+113,0,15,8,"90,000",76,Yes,STAT 212 at 12pm,Yes,Yes,Sophomore,2,Some other residence,Something else,Bad Bunny
+120,1,15,,500000,70,No,STAT 212 at 12pm,No,Yes,Sophomore,2,Some other residence,Something else,Future
+120,0,15,7,"250,000",1.5,No,STAT 212 at 12pm,No,No,Sophomore,2,Dorm Room,Medical School,Air Supply
+120,0,15,7.4,80000,70,No,STAT 212 at 12pm,No,No,Sophomore,2,Dorm Room,Graduate School,Gorillaz
+120,0,15,3,"150,000",72,No,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,Medical School,Lana del rey
+122,0,15,7.5,"80,000",80,Yes,STAT 212 at 12pm,No,Yes,Sophomore,2,Some other residence,A Job,Bob Marley
+131,1,15,6,500000,80,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,A Job,Gustav Mahler
+135,0,15,7.5,"400,000",94,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,Medical School,keshi
+140,1,15,7,100000,65,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,Medical School,Brahms
+140,0,15,6.4,80000,75,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Dorm Room,Graduate School,NIKI
+150,2,15,7.5,"250,000",92,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Dorm Room,Medical School,kid cudi
+170,0,15,10,140000,70,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,Medical School,
+180,1,15,7.5,,65,Yes,STAT 212 at 12pm,No,Yes,Sophomore,2,Some other residence,Medical School,Doja Cat
+200,2,15,7.5,"300,000",43,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,Medical School,Kanye
+665,0,15,9.5,"200,000",40,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,A Job,Kanye West
+817,3,15,6,80000,92,Yes,STAT 212 at 12pm,Yes,Yes,Sophomore,2,Some other residence,PA School,Benson Boone
+851,5,15,8.5,"300,000",79,Yes,STAT 212 at 12pm,Yes,Yes,Sophomore,2,Some other residence,Medical School,michael buble
+7000,1,15,6,60,68,No,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,Graduate School,Mozart
+7870,0,15,11,80000,99,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,Graduate School,Lu Siqing
+133,0,16,6.5,"100,000",74,Yes,STAT 212 at 12pm,No,No,Sophomore,2,Dorm Room,Medical School,Dua Lipa
+141,0,16,4,"100,000",76,Yes,STAT 212 at 12pm,No,Yes,Sophomore,2,Dorm Room,Medical School,Nardo Wick
+194,2,16,5,150000,62,Yes,STAT 212 at 12pm,Yes,No,Sophomore,2,Some other residence,Medical School,Bad Bunny
+150,0,17,8,80000,,No,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,A Job,SEVENTEEN
+2150,0,17,5.7,100000,84,Yes,STAT 212 at 12pm,No,Yes,Sophomore,2,Some other residence,Medical School,Lady Gaga
+220,0,18,7.5,"60,000",83,No,STAT 212 at 12pm,No,No,Sophomore,2,Some other residence,A Job,Artic Monkeys
+111,0,20,7.2,100000,88,No,STAT 212 at 12pm,Yes,No,Sophomore,2,Some other residence,Medical School,Trippie Redd
+132,0,20,7,1000000,32,Yes,STAT 212 at 12pm,No,Yes,Sophomore,2,Dorm Room,Dental School,BTS
+134,0,20,6.5,"1,000,000",34,Yes,STAT 212 at 12pm,No,Yes,Sophomore,2,Dorm Room,Dental School,BTS
+0,1,,6.5,80000,75,Yes,STAT 212 at 12pm,Yes,Yes,Sophomore,2,Some other residence,Graduate School,Bad Bunny
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
